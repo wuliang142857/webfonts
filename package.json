@@ -1,0 +1,20 @@
+{
+  "name": "@wuliang142857/webfonts",
+  "version": "1.0.0",
+  "description": "some webfonts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wuliang142857/webfonts.git"
+  },
+  "keywords": [
+    "webfonts"
+  ],
+  "author": "wuliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuliang142857/webfonts/issues"
+  },
+  "homepage": "https://github.com/wuliang142857/webfonts#readme",
+  "private": false
+}
